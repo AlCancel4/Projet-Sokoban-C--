@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>spider.png</file>
+        <file>caisse.png</file>
+        <file>caisse1.png</file>
+        <file>feum.png</file>
+        <file>plancher.png</file>
+        <file>mur.png</file>
+        <file>diam.png</file>
+        <file>fond.png</file>
+        <file>image.png</file>
+    </qresource>
+    <qresource prefix="/Level">
+        <file>nivo1.txt</file>
+        <file>nivo2.txt</file>
+        <file>nivo3.txt</file>
+        <file>nivo4.txt</file>
+    </qresource>
+</RCC>
